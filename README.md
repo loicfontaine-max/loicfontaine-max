@@ -9,6 +9,7 @@
   <a href="https://qorami.fr">🌐 qorami.fr</a> &nbsp;·&nbsp;
   <a href="https://qorami.fr/docs">📚 Docs</a> &nbsp;·&nbsp;
   <a href="https://qorami.fr/accuracy">📊 Accuracy</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/">💼 LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:contact@qorami.fr">✉️ Contact</a>
 </p>
 
@@ -49,5 +50,4 @@ of removable content.
 
 ## 📫 Reach me
 
-**[qorami.fr](https://qorami.fr)** &nbsp;·&nbsp; ✉️ contact@qorami.fr
-<!-- Ajoute ton LinkedIn / X ici -->
+**[qorami.fr](https://qorami.fr)** &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/) &nbsp;·&nbsp; ✉️ contact@qorami.fr
