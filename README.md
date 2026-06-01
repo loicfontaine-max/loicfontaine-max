@@ -1,44 +1,53 @@
-# Hi, I'm Loïc 👋
+<h1 align="center">Loïc&nbsp;Fontaine</h1>
 
-**Founder & product builder.** I turn ideas into shipped, live products — increasingly
-with AI at the core. I'm non-technical by training: I design the product, make the
-calls, and ship it end-to-end using modern web tooling with AI as a co-pilot.
+<p align="center">
+  <b>Founder &amp; product builder.</b><br/>
+  I turn ideas into shipped, live products — with AI at the core.
+</p>
 
----
-
-### 🚀 What I'm building now — [Qorami.AI](https://qorami.fr)
-
-A **control point between AI agents and sending email**. Before an agent sends, it
-asks Qorami, which answers **send / ask-a-human / block** — with machine reason codes,
-prompt-injection detection, and a safe-rewrite when an email is risky only because of
-removable content.
-
-- 🔎 **Live demo** — paste any email, see the decision → [qorami.fr](https://qorami.fr)
-- 📊 **Published, reproducible accuracy** — 98.8% agreement, 0 dangerous misses → [qorami.fr/accuracy](https://qorami.fr/accuracy)
-- 🧩 **Open SDK + MCP server** — JS/Python clients, OpenAI/Anthropic tool schemas → [github.com/loicfontaine-max/qorami-sdk](https://github.com/loicfontaine-max/qorami-sdk)
-- 📚 **Docs & API** — [qorami.fr/docs](https://qorami.fr/docs)
+<p align="center">
+  <a href="https://qorami.fr">🌐 qorami.fr</a> &nbsp;·&nbsp;
+  <a href="https://qorami.fr/docs">📚 Docs</a> &nbsp;·&nbsp;
+  <a href="https://qorami.fr/accuracy">📊 Accuracy</a> &nbsp;·&nbsp;
+  <a href="mailto:contact@qorami.fr">✉️ Contact</a>
+</p>
 
 ---
 
-### 🧰 Selected work
+## 🚀 Currently building — [Qorami.AI](https://qorami.fr)
 
-- **[Qorami.AI](https://qorami.fr)** — a guardrail for AI agents before they send email. Public SDK + MCP server, live demo, published accuracy benchmark.
-- **Suivi CapitalB** — *(private)* an investment-tracking web app.
-- **Croisière Life** — *(private)* a static marketing site, deployed on Cloudflare Pages.
-- **Moon Project** — *(private)* a personal dashboard to track financial-independence goals.
+**A control point between AI agents and sending email.** Before an agent sends, it
+asks Qorami → **send / ask a human / block** — with machine reason codes,
+prompt-injection detection, and a safe-rewrite when an email is risky only because
+of removable content.
 
----
+- 🔎 **Live demo** — paste any email, see the decision: **[qorami.fr](https://qorami.fr)**
+- 📊 **Measured, reproducible accuracy** — 98.8%, 0 dangerous misses: **[/accuracy](https://qorami.fr/accuracy)**
+- 🛡️ **Detects prompt-injection** — the risk that's unique to AI agents
+- 🧩 **Open SDK + MCP server** — JS/Python clients, OpenAI/Anthropic tool schemas
 
-### 🛠️ How I work
+<p>
+  <a href="https://github.com/loicfontaine-max/qorami-sdk"><img src="https://img.shields.io/github/v/release/loicfontaine-max/qorami-sdk?label=qorami-sdk&color=2f8c62" alt="qorami-sdk release"/></a>
+  <a href="https://github.com/loicfontaine-max/qorami-sdk/blob/main/LICENSE"><img src="https://img.shields.io/github/license/loicfontaine-max/qorami-sdk?color=2f8c62" alt="license"/></a>
+  <a href="https://qorami.fr"><img src="https://img.shields.io/badge/site-qorami.fr-2f8c62" alt="site"/></a>
+</p>
 
-- Ship fast and live: web front-ends (React / TypeScript), Cloudflare Pages & Workers, LLM APIs (Anthropic / OpenAI).
-- AI as co-pilot for the code — I focus on the product, the UX, and getting it in front of real users.
-- Bias for shipping something real over talking about it.
+## 🧰 Selected work
 
----
+| Project | What | |
+|---|---|---|
+| **[Qorami.AI](https://qorami.fr)** | A guardrail for AI agents before they send email — public SDK + MCP server, live demo, published accuracy | 🌍 public SDK |
+| **Suivi CapitalB** | Investment-tracking web app | 🔒 private |
+| **Croisière Life** | Static marketing site, shipped on Cloudflare Pages | 🔒 private |
+| **Moon Project** | Personal finance & planning dashboard | 🔒 private |
 
-### 📫 Reach me
+## 🛠️ How I work
 
-- ✉️ contact@qorami.fr
-- 🌐 [qorami.fr](https://qorami.fr)
-<!-- Optionnel : ajoute ton LinkedIn / X ici -->
+- Ship fast and **live**: React / TypeScript front-ends, Cloudflare Pages & Workers, LLM APIs (Anthropic / OpenAI).
+- Non-technical by training — I drive the product and ship end-to-end with **AI as a co-pilot**.
+- Bias for putting something real in front of users over talking about it.
+
+## 📫 Reach me
+
+**[qorami.fr](https://qorami.fr)** &nbsp;·&nbsp; ✉️ contact@qorami.fr
+<!-- Ajoute ton LinkedIn / X ici -->
