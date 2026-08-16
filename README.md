@@ -1,8 +1,8 @@
 <h1 align="center">Loïc&nbsp;Fontaine</h1>
 
 <p align="center">
-  <b>Founder &amp; Product Builder · AI Solutions Architect</b><br/>
-  I turn ideas into shipped, live products — with AI at the core.
+  <b>Fondateur &amp; Product Builder · Architecte Solutions IA</b><br/>
+  <i>Je transforme les idées en produits opérationnels et déployés en production — avec l'IA au cœur.</i>
 </p>
 
 <p align="center">
@@ -16,72 +16,70 @@
 
 ---
 
-## 🚀 Flagship Product — [Qorami.AI](https://qorami.fr)
+## 🚀 Produit Phare — [Qorami.AI](https://qorami.fr)
 
-**A deterministic control point between AI agents and email.** Before an agent sends, it
-queries Qorami → **`send` / `ask a human` / `block`** — with machine reason codes,
-prompt-injection detection, audit logs, and safe email rewrites.
+**Un point de contrôle déterministe entre vos agents IA et l'envoi d'emails.** Avant qu'un agent n'envoie un email critique, il interroge Qorami → **`send` (envoyer) / `request_human_confirmation` (validation humaine) / `do_not_send` (bloquer)** — avec codes de justification machine, détection des prompt injections, audit trail complet et réécriture sécurisée du contenu sensible.
 
-- 🔎 **Live interactive demo** — paste any email and see the decision: **[qorami.fr](https://qorami.fr)**
-- 📊 **Reproducible accuracy benchmark** — 98.8% accuracy, 0 dangerous misses: **[/accuracy](https://qorami.fr/accuracy)**
-- 🛡️ **Prompt-injection & PII scanning** — engineered specifically for autonomous agent risks
-- 🧩 **Open SDK + MCP Server + n8n Node** — JavaScript/Python clients and OpenAI/Anthropic schemas
+- 🔎 **Démonstration interactive en direct** — testez n'importe quel email : **[qorami.fr](https://qorami.fr)**
+- 📊 **Benchmark de précision mesurée et reproductible** — 98,8 % de précision, 0 faux négatif dangereux : **[/accuracy](https://qorami.fr/accuracy)**
+- 🛡️ **Scanner de prompt injection & DLP** — conçu spécifiquement pour sécuriser les agents autonomes
+- 🧩 **SDK Open Source + Serveur MCP + Nœud n8n** — clients JavaScript / Python et schémas d'outils pour OpenAI et Anthropic
 
 <p>
   <a href="https://github.com/loicfontaine-max/qorami-sdk"><img src="https://img.shields.io/github/v/release/loicfontaine-max/qorami-sdk?label=qorami-sdk&color=2f8c62" alt="qorami-sdk release"/></a>
-  <a href="https://github.com/loicfontaine-max/agentguard"><img src="https://img.shields.io/badge/security-AgentGuard-2f8c62" alt="AgentGuard"/></a>
-  <a href="https://github.com/loicfontaine-max/n8n-nodes-qorami"><img src="https://img.shields.io/badge/integration-n8n--node-ea4b71" alt="n8n node"/></a>
-  <a href="https://qorami.fr"><img src="https://img.shields.io/badge/live-qorami.fr-2f8c62" alt="site"/></a>
+  <a href="https://github.com/loicfontaine-max/agentguard"><img src="https://img.shields.io/badge/sécurité-AgentGuard-2f8c62" alt="AgentGuard"/></a>
+  <a href="https://github.com/loicfontaine-max/n8n-nodes-qorami"><img src="https://img.shields.io/badge/intégration-n8n--node-ea4b71" alt="n8n node"/></a>
+  <a href="https://qorami.fr"><img src="https://img.shields.io/badge/site-qorami.fr-2f8c62" alt="site"/></a>
 </p>
 
 ---
 
-## ✨ Live Products & Platforms
+## ✨ Produits & Applications en Production
 
 ### [CalculArgent.fr](https://calculargent.fr)
-A collection of 9 fast, privacy-friendly financial calculators for savings, compound interest, emergency funds, debt and net worth. Built with Next.js 15, React 19, TypeScript and Tailwind CSS on Cloudflare Pages.
-- **[Visit CalculArgent.fr](https://calculargent.fr)** · **[Open Source Repository](https://github.com/loicfontaine-max/calculargent)**
+Une suite de 9 calculateurs financiers gratuits, rapides et respectueux de la vie privée (intérêts composés, épargne, fonds d'urgence, retraite, dettes, patrimoine). Développé avec Next.js 15, React 19, TypeScript et Tailwind CSS sur Cloudflare Pages.
+- **[Visiter CalculArgent.fr](https://calculargent.fr)** · **[Dépôt Open Source](https://github.com/loicfontaine-max/calculargent)**
 
 ### [Parcs & Découvertes](https://parcsetdecouvertes.fr)
-A comprehensive French discovery guide and personal visit journal for leisure parks, theme parks, zoos, aquariums, water parks and museums (~400 curated venues across France and Europe).
-- **[Visit Parcs & Découvertes](https://parcsetdecouvertes.fr)** · *[Private Repository](https://github.com/loicfontaine-max/parcs-et-decouvertes)*
+Guide français de découverte touristique et carnet personnel de visites pour parcs d'attractions, zoos, aquariums, parcs aquatiques et musées (~400 lieux référencés en France et en Europe).
+- **[Visiter Parcs & Découvertes](https://parcsetdecouvertes.fr)** · *[Dépôt privé](https://github.com/loicfontaine-max/parcs-et-decouvertes)*
 
 ### [Croisière Life](https://croisiere.life)
-A specialized French cruise editorial media, itinerary comparator and affiliate platform with automated daily content curation.
-- **[Visit Croisière Life](https://croisiere.life)** · *[Private Repository](https://github.com/loicfontaine-max/croisiere-life)*
+Média éditorial et comparateur de croisières en France, associant contenu SEO, suivi d'affiliation et curation quotidienne automatisée.
+- **[Visiter Croisière Life](https://croisiere.life)** · *[Dépôt privé](https://github.com/loicfontaine-max/croisiere-life)*
 
 ### [CapitalB Tracker](https://suivi-capitalb.fr)
-An edge-hosted tracking dashboard monitoring the public Bitcoin-treasury metrics and market mNAV premium of Euronext-listed Capital B.
-- **[Visit Dashboard](https://suivi-capitalb.fr)** · **[Public Repository Template](https://github.com/loicfontaine-max/capitalb-tracker)**
+Tableau de bord hébergé à l'Edge mesurant en temps réel les métriques de trésorerie Bitcoin et la prime de marché par rapport à la mNAV de la société cotée Capital B.
+- **[Visiter le Dashboard](https://suivi-capitalb.fr)** · **[Modèle de Dépôt Public](https://github.com/loicfontaine-max/capitalb-tracker)**
 
 ---
 
-## 🧰 Ecosystem & Repositories
+## 🧰 Écosystème & Dépôts
 
-| Project / Component | Description | Visibility & Links |
+| Projet / Composant | Description | Visibilité & Liens |
 |---|---|---|
-| **[Qorami.AI](https://qorami.fr)** | AI agent guardrails before sending email | [Live Product](https://qorami.fr) |
-| **[Qorami SDK](https://github.com/loicfontaine-max/qorami-sdk)** | JS/Python SDK, tool schemas & MCP server | [GitHub Repo](https://github.com/loicfontaine-max/qorami-sdk) (Public) |
-| **[n8n Node for Qorami](https://github.com/loicfontaine-max/n8n-nodes-qorami)** | Community node for n8n email automation workflows | [GitHub Repo](https://github.com/loicfontaine-max/n8n-nodes-qorami) (Public) |
-| **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Zero-dep outbound scanner for secrets, PII & prompt injections | [GitHub Repo](https://github.com/loicfontaine-max/agentguard) (Public) |
-| **[CalculArgent](https://calculargent.fr)** | 9 financial calculators (savings, debt, net worth) | [GitHub Repo](https://github.com/loicfontaine-max/calculargent) (Public) |
-| **[CapitalB Tracker](https://suivi-capitalb.fr)** | Bitcoin-treasury market metrics dashboard | [GitHub Repo](https://github.com/loicfontaine-max/capitalb-tracker) (Public) |
-| **[Parcs & Découvertes](https://parcsetdecouvertes.fr)** | Discovery guide, interactive map & personal visit journal | [Live Website](https://parcsetdecouvertes.fr) (Private source) |
-| **[Croisière Life](https://croisiere.life)** | Cruise media & affiliate platform | [Live Website](https://croisiere.life) (Private source) |
-| **Moon Project** | Personal financial independence cockpit & AI project radar | Private (Cloudflare Access) |
-| **Fontaine AI Solutions** | Enterprise management, automation & central project portal | Private (`F·AI·S`) |
+| **[Qorami.AI](https://qorami.fr)** | Pare-feu d'actions pour agents IA avant envoi d'emails | [Produit en direct](https://qorami.fr) |
+| **[Qorami SDK](https://github.com/loicfontaine-max/qorami-sdk)** | SDK JavaScript & Python, schémas d'outils et serveur MCP | [Dépôt GitHub](https://github.com/loicfontaine-max/qorami-sdk) (Public) |
+| **[Nœud n8n Qorami](https://github.com/loicfontaine-max/n8n-nodes-qorami)** | Nœud communautaire n8n pour les workflows automatisés | [Dépôt GitHub](https://github.com/loicfontaine-max/n8n-nodes-qorami) (Public) |
+| **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Scanner zero-dependency de secrets, CB, IBAN et prompt injection | [Dépôt GitHub](https://github.com/loicfontaine-max/agentguard) (Public) |
+| **[CalculArgent](https://calculargent.fr)** | 9 calculateurs financiers (épargne, dettes, patrimoine) | [Dépôt GitHub](https://github.com/loicfontaine-max/calculargent) (Public) |
+| **[CapitalB Tracker](https://suivi-capitalb.fr)** | Dashboard de suivi de trésorerie Bitcoin cotée | [Dépôt GitHub](https://github.com/loicfontaine-max/capitalb-tracker) (Public) |
+| **[Parcs & Découvertes](https://parcsetdecouvertes.fr)** | Guide de loisirs, carte interactive et carnet de visite personnel | [Site web](https://parcsetdecouvertes.fr) (Source privée) |
+| **[Croisière Life](https://croisiere.life)** | Média et plateforme d'affiliation croisières | [Site web](https://croisiere.life) (Source privée) |
+| **Moon Project** | Cockpit personnel d'indépendance financière & radar IA | Privé (Cloudflare Access) |
+| **Fontaine AI Solutions** | Structure d'entreprise (EI), gestion opérationnelle & portail central | Privé (`F·AI·S`) |
 
 ---
 
-## 🛠️ How I Build
+## 🛠️ Ma Méthodologie
 
-- **Ship fast and live**: Next.js, React 19, TypeScript, Cloudflare (Pages, Workers, D1), Supabase and LLM APIs.
-- **Product-first AI engineering**: Solving real-world operational problems with robust, deterministic guardrails.
-- **Maintainable & Measurable**: High test coverage, reproducible benchmark metrics, clean documentation and zero superfluous dependencies.
+- **Déploiement rapide en production** : Next.js, React 19, TypeScript, Cloudflare (Pages, Workers, D1), Supabase et APIs LLM.
+- **Ingénierie IA orientée produit** : Résolution de cas d'usage réels avec des garde-fous déterministes et mesurables.
+- **Maintenabilité & Rigueur** : Forte couverture de tests, benchmarks reproductibles, documentation soignée et zéro dépendance superflue.
 
 ---
 
-## 📫 Connect
+## 📫 Me Contacter
 
 - 🌐 **[qorami.fr](https://qorami.fr)** &nbsp;·&nbsp; **[calculargent.fr](https://calculargent.fr)** &nbsp;·&nbsp; **[parcsetdecouvertes.fr](https://parcsetdecouvertes.fr)**
 - 💼 **[LinkedIn](https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/)**
