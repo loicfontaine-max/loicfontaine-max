@@ -1,8 +1,8 @@
 <h1 align="center">Loïc&nbsp;Fontaine</h1>
 
 <p align="center">
-  <b>Fondateur &amp; Product Builder · Architecte Solutions IA</b><br/>
-  <i>Je transforme les idées en produits opérationnels et déployés en production — avec l'IA au cœur.</i>
+  <b>Fondateur &amp; Product Builder · Fontaine AI Solutions (F·AI·S)</b><br/>
+  <i>« L’intelligence devient action. »</i> — Je conçois et déploie des produits numériques et des garde-fous IA en production.
 </p>
 
 <p align="center">
@@ -13,6 +13,16 @@
   <a href="https://suivi-capitalb.fr">₿ <b>CapitalB Tracker</b></a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/">💼 <b>LinkedIn</b></a>
 </p>
+
+---
+
+## 🏢 Structure & Studio Produit — Fontaine AI Solutions (F·AI·S)
+
+**Fontaine AI Solutions** (`F·AI·S`, *Loïc Fontaine EI*) est la structure entrepreneuriale et le studio qui conçoit, développe et exploite un portefeuille de solutions logicielles, d'APIs et de services numériques propulsés par l'intelligence artificielle et l'automatisation.
+
+- 🎯 **Mission** : Transformer des cas d'usage concrets en produits autonomes, fiables et utiles.
+- ⚙️ **Périmètre** : Plateformes SaaS B2B, applications web grand public, outils de sécurité IA, analyse de données et médias thématiques.
+- 📂 **Pilotage & Portail** : Dépôt centralisé privé [`fontaine-ai-solutions-management`](https://github.com/loicfontaine-max/fontaine-ai-solutions-management) assurant la gestion administrative, financière, la conformité réglementaire et l'orchestration des projets.
 
 ---
 
@@ -54,20 +64,20 @@ Tableau de bord hébergé à l'Edge mesurant en temps réel les métriques de tr
 
 ---
 
-## 🧰 Écosystème & Dépôts
+## 🧰 Écosystème des Dépôts
 
 | Projet / Composant | Description | Visibilité & Liens |
 |---|---|---|
+| **Fontaine AI Solutions** | Structure d'entreprise (EI), gestion opérationnelle & portail central | [`fontaine-ai-solutions-management`](https://github.com/loicfontaine-max/fontaine-ai-solutions-management) *(Privé)* |
 | **[Qorami.AI](https://qorami.fr)** | Pare-feu d'actions pour agents IA avant envoi d'emails | [Produit en direct](https://qorami.fr) |
-| **[Qorami SDK](https://github.com/loicfontaine-max/qorami-sdk)** | SDK JavaScript & Python, schémas d'outils et serveur MCP | [Dépôt GitHub](https://github.com/loicfontaine-max/qorami-sdk) (Public) |
-| **[Nœud n8n Qorami](https://github.com/loicfontaine-max/n8n-nodes-qorami)** | Nœud communautaire n8n pour les workflows automatisés | [Dépôt GitHub](https://github.com/loicfontaine-max/n8n-nodes-qorami) (Public) |
-| **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Scanner zero-dependency de secrets, CB, IBAN et prompt injection | [Dépôt GitHub](https://github.com/loicfontaine-max/agentguard) (Public) |
-| **[CalculArgent](https://calculargent.fr)** | 9 calculateurs financiers (épargne, dettes, patrimoine) | [Dépôt GitHub](https://github.com/loicfontaine-max/calculargent) (Public) |
-| **[CapitalB Tracker](https://suivi-capitalb.fr)** | Dashboard de suivi de trésorerie Bitcoin cotée | [Dépôt GitHub](https://github.com/loicfontaine-max/capitalb-tracker) (Public) |
-| **[Parcs & Découvertes](https://parcsetdecouvertes.fr)** | Guide de loisirs, carte interactive et carnet de visite personnel | [Site web](https://parcsetdecouvertes.fr) (Source privée) |
-| **[Croisière Life](https://croisiere.life)** | Média et plateforme d'affiliation croisières | [Site web](https://croisiere.life) (Source privée) |
+| **[Qorami SDK](https://github.com/loicfontaine-max/qorami-sdk)** | SDK JavaScript & Python, schémas d'outils et serveur MCP | [Dépôt GitHub](https://github.com/loicfontaine-max/qorami-sdk) *(Public)* |
+| **[Nœud n8n Qorami](https://github.com/loicfontaine-max/n8n-nodes-qorami)** | Nœud communautaire n8n pour les workflows automatisés | [Dépôt GitHub](https://github.com/loicfontaine-max/n8n-nodes-qorami) *(Public)* |
+| **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Scanner zero-dependency de secrets, CB, IBAN et prompt injection | [Dépôt GitHub](https://github.com/loicfontaine-max/agentguard) *(Public)* |
+| **[CalculArgent](https://calculargent.fr)** | 9 calculateurs financiers (épargne, dettes, patrimoine) | [Dépôt GitHub](https://github.com/loicfontaine-max/calculargent) *(Public)* |
+| **[CapitalB Tracker](https://suivi-capitalb.fr)** | Dashboard de suivi de trésorerie Bitcoin cotée | [Dépôt GitHub](https://github.com/loicfontaine-max/capitalb-tracker) *(Public)* |
+| **[Parcs & Découvertes](https://parcsetdecouvertes.fr)** | Guide de loisirs, carte interactive et carnet de visite personnel | [Site web](https://parcsetdecouvertes.fr) *(Source privée)* |
+| **[Croisière Life](https://croisiere.life)** | Média et plateforme d'affiliation croisières | [Site web](https://croisiere.life) *(Source privée)* |
 | **Moon Project** | Cockpit personnel d'indépendance financière & radar IA | Privé (Cloudflare Access) |
-| **Fontaine AI Solutions** | Structure d'entreprise (EI), gestion opérationnelle & portail central | Privé (`F·AI·S`) |
 
 ---
 
