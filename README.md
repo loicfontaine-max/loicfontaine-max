@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://qorami.fr">🌐 Qorami.AI</a> &nbsp;·&nbsp;
   <a href="https://calculargent.fr">🧮 CalculArgent</a> &nbsp;·&nbsp;
-  <a href="https://parcs-de-loisirs.fontaine-loic.workers.dev">🧭 Parcs &amp; Découvertes</a> &nbsp;·&nbsp;
+  <a href="https://parcsetdecouvertes.fr">🧭 Parcs &amp; Découvertes</a> &nbsp;·&nbsp;
   <a href="https://suivi-capitalb.fr">₿ CapitalB Tracker</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/">💼 LinkedIn</a>
 </p>
@@ -41,11 +41,13 @@ A collection of nine fast, privacy-friendly financial calculators for savings,
 debt and net worth. Each tool has a dedicated SEO page, shareable parameters,
 transparent formulas and a practical FAQ.
 
-### [Parcs & Découvertes](https://parcs-de-loisirs.fontaine-loic.workers.dev)
+### [Parcs & Découvertes](https://parcsetdecouvertes.fr)
 
 A public discovery guide and personal visit journal for theme parks, zoos,
 aquariums, water parks and museums. It includes an interactive map, a curated
 venue catalogue, regional discovery pages and a protected personal space.
+
+**[Visit the live product](https://parcsetdecouvertes.fr)** · [Private source repository](https://github.com/loicfontaine-max/parcs-et-decouvertes)
 
 ### [CapitalB Tracker](https://suivi-capitalb.fr)
 
@@ -58,7 +60,7 @@ mNAV and market premium indicators.
 |---|---|---|
 | **[Qorami.AI](https://qorami.fr)** | Guardrails for AI agents before they send email | Public SDK & live product |
 | **[CalculArgent](https://calculargent.fr)** | Financial calculators for savings, debt and net worth | [Live product & public repository](https://github.com/loicfontaine-max/calculargent) |
-| **[Parcs & Découvertes](https://parcs-de-loisirs.fontaine-loic.workers.dev)** | Discovery guide, interactive map and personal visit journal | Live product |
+| **[Parcs & Découvertes](https://parcsetdecouvertes.fr)** | Discovery guide, interactive map and personal visit journal | [Live product](https://parcsetdecouvertes.fr) · [Private source](https://github.com/loicfontaine-max/parcs-et-decouvertes) |
 | **[CapitalB Tracker](https://suivi-capitalb.fr)** | Bitcoin-treasury market metrics dashboard | [Public repository](https://github.com/loicfontaine-max/capitalb-tracker) |
 | **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Zero-dependency outbound text scanner for secrets and prompt injection | Open source |
 | **[Qorami SDK](https://github.com/loicfontaine-max/qorami-sdk)** | JavaScript/Python clients, tool schemas and MCP server | Open source |
