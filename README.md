@@ -7,6 +7,7 @@
 
 <p align="center">
   <a href="https://qorami.fr">🌐 Qorami.AI</a> &nbsp;·&nbsp;
+  <a href="https://calculargent.fr">🧮 CalculArgent</a> &nbsp;·&nbsp;
   <a href="https://parcs-de-loisirs.fontaine-loic.workers.dev">🧭 Parcs &amp; Découvertes</a> &nbsp;·&nbsp;
   <a href="https://suivi-capitalb.fr">₿ CapitalB Tracker</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/lo%C3%AFc-fontaine-41001918/">💼 LinkedIn</a>
@@ -34,6 +35,12 @@ of removable content.
 
 ## ✨ Recently shipped
 
+### [CalculArgent](https://calculargent.fr)
+
+A collection of nine fast, privacy-friendly financial calculators for savings,
+debt and net worth. Each tool has a dedicated SEO page, shareable parameters,
+transparent formulas and a practical FAQ.
+
 ### [Parcs & Découvertes](https://parcs-de-loisirs.fontaine-loic.workers.dev)
 
 A public discovery guide and personal visit journal for theme parks, zoos,
@@ -50,6 +57,7 @@ mNAV and market premium indicators.
 | Project | What | Availability |
 |---|---|---|
 | **[Qorami.AI](https://qorami.fr)** | Guardrails for AI agents before they send email | Public SDK & live product |
+| **[CalculArgent](https://calculargent.fr)** | Financial calculators for savings, debt and net worth | [Live product & public repository](https://github.com/loicfontaine-max/calculargent) |
 | **[Parcs & Découvertes](https://parcs-de-loisirs.fontaine-loic.workers.dev)** | Discovery guide, interactive map and personal visit journal | Live product |
 | **[CapitalB Tracker](https://suivi-capitalb.fr)** | Bitcoin-treasury market metrics dashboard | [Public repository](https://github.com/loicfontaine-max/capitalb-tracker) |
 | **[AgentGuard](https://github.com/loicfontaine-max/agentguard)** | Zero-dependency outbound text scanner for secrets and prompt injection | Open source |
